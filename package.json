@@ -1,0 +1,25 @@
+{
+  "name": "node-mqlight",
+  "version": "1.0.0",
+  "description": "mqlight",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohammad/node-mqlight.git"
+  },
+  "keywords": [
+    "mqlight"
+  ],
+  "author": "Hammad Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tohammad/node-mqlight/issues"
+  },
+  "homepage": "https://github.com/tohammad/node-mqlight#readme",
+  "dependencies": {
+    "mqlight": "^2.0.2019041500"
+  }
+}
